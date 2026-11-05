@@ -1,0 +1,202 @@
+{
+  "anchor_date": "2026-10-21",
+  "timezone": "Asia/Kolkata",
+  "cycle_length": 10,
+  "reorder_policy": "immediate",
+  "pending_sequence": null,
+  "flavours": [
+    {
+      "id": "belgian-chocolate",
+      "name": "Belgian Chocolate & Vanilla",
+      "description": "Double-dusted silky dark cocoa soft-serve churned with authentic 72% Belgian chocolate and crisp chocolate flakes, swirled with velvety Madagascar vanilla.",
+      "image_url": "/static/bundle/02_Flavour_Campaign/chocolate_x_vanilla_WEB.jpg",
+      "is_active": true,
+      "availability": "Freshly Churned · High Demand",
+      "tagline": "Pure Decadent Cocoa",
+      "calories": "220 kcal / swirl",
+      "allergens": [
+        "Dairy",
+        "Gluten (Cone)"
+      ],
+      "tasting_notes": [
+        "72% Callebaut Cocoa",
+        "Silky Ganache",
+        "Bittersweet Finish"
+      ]
+    },
+    {
+      "id": "strawberry",
+      "name": "Strawberry & Vanilla",
+      "description": "Sun-ripened Mahabaleshwar strawberry swirl paired with sweet strawberry glaze coulis and fresh berry notes over rich milk cream.",
+      "image_url": "/static/bundle/02_Flavour_Campaign/strawberry_x_vanilla_WEB.jpg",
+      "is_active": true,
+      "availability": "Fresh Daily · Farm Picked",
+      "tagline": "Summer Sweetness",
+      "calories": "180 kcal / swirl",
+      "allergens": [
+        "Dairy",
+        "Gluten (Cone)"
+      ],
+      "tasting_notes": [
+        "Mahabaleshwar Berries",
+        "Sweet Glaze",
+        "Pastel Cream"
+      ]
+    },
+    {
+      "id": "mango",
+      "name": "Alphonso Mango & Vanilla",
+      "description": "Vibrant golden Ratnagiri Alphonso mango puree whipped into an ultra-velvety tropical soft-serve crowned with sun-drenched floral sweetness.",
+      "image_url": "/static/bundle/02_Flavour_Campaign/alphonso_mango_x_vanilla_WEB.jpg",
+      "is_active": true,
+      "availability": "Seasonal Special · Today's Favorite",
+      "tagline": "King of Softies",
+      "calories": "195 kcal / swirl",
+      "allergens": [
+        "Dairy",
+        "Gluten (Cone)"
+      ],
+      "tasting_notes": [
+        "Ratnagiri Alphonso",
+        "Sun-Drenched Honey",
+        "Passion Fruit Hint"
+      ]
+    },
+    {
+      "id": "black-currant",
+      "name": "Blackcurrant & Vanilla",
+      "description": "Dramatic royal purple wild blackcurrant swirl with tangy dark berry compote and creamy farm milk balance.",
+      "image_url": "/static/bundle/02_Flavour_Campaign/blackcurrant_x_vanilla_WEB.jpg",
+      "is_active": true,
+      "availability": "Limited Churn · Parlour Exclusive",
+      "tagline": "Rich & Zesty Elegance",
+      "calories": "185 kcal / swirl",
+      "allergens": [
+        "Dairy",
+        "Gluten (Cone)"
+      ],
+      "tasting_notes": [
+        "Wild Currants",
+        "Tart Berry Coulis",
+        "Deep Velvet Cream"
+      ]
+    },
+    {
+      "id": "butterscotch",
+      "name": "Butterscotch & Vanilla",
+      "description": "Warm golden brown sugar and dairy cream softie crowned with melted butterscotch drizzle and crunchy cashew praline toffee aroma.",
+      "image_url": "/static/bundle/02_Flavour_Campaign/butterscotch_x_vanilla_WEB.jpg",
+      "is_active": true,
+      "availability": "Customer Classic · Always Fresh",
+      "tagline": "Caramelized Praline Crunch",
+      "calories": "230 kcal / swirl",
+      "allergens": [
+        "Dairy",
+        "Nuts",
+        "Gluten (Cone)"
+      ],
+      "tasting_notes": [
+        "Malted Brown Sugar",
+        "Cashew Praline",
+        "Warm Butter Aroma"
+      ]
+    },
+    {
+      "id": "vanilla",
+      "name": "Pistachio & Vanilla",
+      "description": "Rich roasted Iranian pistachio soft-serve churned with aromatic green cardamom notes and silky Madagascar bourbon vanilla.",
+      "image_url": "/static/bundle/02_Flavour_Campaign/pistachio_x_vanilla_WEB.jpg",
+      "is_active": true,
+      "availability": "Artisanal Special · Churned Daily",
+      "tagline": "Purest Bourbon Aroma",
+      "calories": "210 kcal / swirl",
+      "allergens": [
+        "Dairy",
+        "Nuts",
+        "Gluten (Cone)"
+      ],
+      "tasting_notes": [
+        "Roasted Pistachio",
+        "Green Cardamom",
+        "Floral Undertones"
+      ]
+    },
+    {
+      "id": "chocolate-brownie",
+      "name": "Pineapple & Vanilla",
+      "description": "Sweet and tangy golden Queen Pineapple swirl whipped with velvety vanilla soft-serve for an uplifting tropical treat.",
+      "image_url": "/static/bundle/02_Flavour_Campaign/pineapple_x_vanilla_WEB.jpg",
+      "is_active": true,
+      "availability": "Tropical Fresh · Popular",
+      "tagline": "Golden Tangy Bliss",
+      "calories": "175 kcal / swirl",
+      "allergens": [
+        "Dairy",
+        "Gluten (Cone)"
+      ],
+      "tasting_notes": [
+        "Queen Pineapple",
+        "Citrus Sparkle",
+        "Smooth Vanilla"
+      ]
+    },
+    {
+      "id": "blueberry",
+      "name": "Rosemilk & Vanilla",
+      "description": "Nostalgic blush pink Damask rose essence softie folded into rich whole dairy milk with subtle hints of sweet almond.",
+      "image_url": "/static/bundle/02_Flavour_Campaign/rosemilk_x_vanilla_WEB.jpg",
+      "is_active": true,
+      "availability": "Heritage Flavour · In Stock",
+      "tagline": "Fragrant Floral Bloom",
+      "calories": "185 kcal / swirl",
+      "allergens": [
+        "Dairy",
+        "Gluten (Cone)"
+      ],
+      "tasting_notes": [
+        "Damask Rose",
+        "Sweet Almond Note",
+        "Creamy Rose Swirl"
+      ]
+    },
+    {
+      "id": "caramel-crunch",
+      "name": "Badam Kulfi & Vanilla",
+      "description": "Royal Indian dessert reimagined in silky soft-serve with crushed California almonds, mawa cream, and fragrant kesar saffron.",
+      "image_url": "/static/bundle/02_Flavour_Campaign/badam_kulfi_x_vanilla_WEB.jpg",
+      "is_active": true,
+      "availability": "Royal Special · Staff Pick",
+      "tagline": "Shahi Badam Kulfi",
+      "calories": "235 kcal / swirl",
+      "allergens": [
+        "Dairy",
+        "Nuts",
+        "Gluten (Cone)"
+      ],
+      "tasting_notes": [
+        "Crushed Almonds",
+        "Kesar Saffron",
+        "Slow-Cooked Mawa"
+      ]
+    },
+    {
+      "id": "cookies-and-cream",
+      "name": "Coffee Bean & Vanilla",
+      "description": "Bold Chikmagalur dark-roast espresso cream soft-serve balanced with sweet velvety vanilla swirl and cocoa aroma.",
+      "image_url": "/static/bundle/02_Flavour_Campaign/coffee_bean_x_vanilla_WEB.jpg",
+      "is_active": true,
+      "availability": "Fresh Daily Batch · Signature",
+      "tagline": "Chikmagalur Roast",
+      "calories": "190 kcal / swirl",
+      "allergens": [
+        "Dairy",
+        "Gluten (Cone)"
+      ],
+      "tasting_notes": [
+        "Chikmagalur Roast",
+        "Dark Mocha Crema",
+        "Velvet Sweet Finish"
+      ]
+    }
+  ]
+}
